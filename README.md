@@ -1,9 +1,5 @@
 ### Hi there everybody 👋
 
-<!--
-**DanielGranados76/DanielGranados76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on improving my Internet skills.
 - 🌱 I’m currently learning basic Full Stack development.
@@ -12,4 +8,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about any question in English language.
 - 📫 How to reach me: https://www.instagram.com/dani_que_mas_quies/ .
 - ⚡ Fun fact: I like psychological terror movies and videogames 👻.
--->
+
